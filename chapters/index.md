@@ -15,18 +15,20 @@ description: 越南六十日 · 全书章节索引
 
 ## 章节
 
-| 章节 | 主题 | 核心问题 |
+| 篇目 | 主题 | 核心问题 |
 |------|------|----------|
 | [序 · 为什么是越南](/chapters/prologue) | 出发的理由 | 为什么是越南？为什么是现在？ |
-| [第一章 · 胡志明：落地冲击](/chapters/ch01-landing-shock) | 皮肤接触 | 一个系统失效，另一个还没进入 |
-| [第二章 · 河内迷宫](/chapters/ch02-hanoi-maze) | 历史与现在 | 过去压在现在上面，是负担还是锚？ |
-| [第三章 · 会安时光](/chapters/ch03-hoi-an-time) | 真实与表演 | 为旅游保留的地方，是不是还算真实？ |
-| [第四章 · 岘港与海](/chapters/ch04-danang-sea) | 发展与代价 | 现代化的野心，谁来买单？ |
-| [第六章 · 人与事](/chapters/ch06-people-stories) | 人的维度 | 那些让我真正理解越南的，都是具体的人 |
-| [第七章 · 食物人类学](/chapters/ch07-food-anthropology) | 文化融合 | 法棍变成了越南的，这算入侵还是进化？ |
-| [第八章 · 商业观察](/chapters/ch08-business-observation) | 经济逻辑 | 相信个体努力有用，是朴素还是盲目？ |
-| [第九章 · 认知跃迁](/chapters/ch09-cognitive-leap) | 哲学反思 | 旅居的终点不是地方，是自己的预设 |
+| [胡志明：落地冲击](/chapters/ch01-landing-shock) | 皮肤接触 | 一个系统失效，另一个还没进入 |
+| [河内迷宫](/chapters/ch02-hanoi-maze) | 历史与现在 | 过去压在现在上面，是负担还是锚？ |
+| [会安时光](/chapters/ch03-hoi-an-time) | 真实与表演 | 为旅游保留的地方，是不是还算真实？ |
+| [岘港与海](/chapters/ch04-danang-sea) | 发展与代价 | 现代化的野心，谁来买单？ |
+| [人与事](/chapters/ch06-people-stories) | 人的维度 | 那些让我真正理解越南的，都是具体的人 |
+| [食物人类学](/chapters/ch07-food-anthropology) | 文化融合 | 法棍变成了越南的，这算入侵还是进化？ |
+| [商业观察](/chapters/ch08-business-observation) | 经济逻辑 | 相信个体努力有用，是朴素还是盲目？ |
+| [认知跃迁](/chapters/ch09-cognitive-leap) | 哲学反思 | 旅居的终点不是地方，是自己的预设 |
 | [终章 · 离开与归来](/chapters/ch10-epilogue) | 离开 | 带走了什么，留下了什么 |
+
+> 原第五章「西贡补记」的内容已全部融入「胡志明：落地冲击」，不再单独成章。
 
 ---
 

@@ -34,14 +34,14 @@ export default defineConfig({
           text: '越南六十日',
           items: [
             { text: '序 · 为什么是越南', link: '/chapters/prologue' },
-            { text: '第一章 · 胡志明：落地冲击', link: '/chapters/ch01-landing-shock' },
-            { text: '第二章 · 河内迷宫', link: '/chapters/ch02-hanoi-maze' },
-            { text: '第三章 · 会安时光', link: '/chapters/ch03-hoi-an-time' },
-            { text: '第四章 · 岘港与海', link: '/chapters/ch04-danang-sea' },
-            { text: '第六章 · 人与事', link: '/chapters/ch06-people-stories' },
-            { text: '第七章 · 食物人类学', link: '/chapters/ch07-food-anthropology' },
-            { text: '第八章 · 商业观察', link: '/chapters/ch08-business-observation' },
-            { text: '第九章 · 认知跃迁', link: '/chapters/ch09-cognitive-leap' },
+            { text: '胡志明：落地冲击', link: '/chapters/ch01-landing-shock' },
+            { text: '河内迷宫', link: '/chapters/ch02-hanoi-maze' },
+            { text: '会安时光', link: '/chapters/ch03-hoi-an-time' },
+            { text: '岘港与海', link: '/chapters/ch04-danang-sea' },
+            { text: '人与事', link: '/chapters/ch06-people-stories' },
+            { text: '食物人类学', link: '/chapters/ch07-food-anthropology' },
+            { text: '商业观察', link: '/chapters/ch08-business-observation' },
+            { text: '认知跃迁', link: '/chapters/ch09-cognitive-leap' },
             { text: '终章 · 离开与归来', link: '/chapters/ch10-epilogue' },
           ]
         }
