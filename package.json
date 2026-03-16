@@ -1,0 +1,13 @@
+{
+  "name": "vietnam-book",
+  "version": "1.0.0",
+  "description": "咖啡凉了，摩托还没停 · 越南旅居篇",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}

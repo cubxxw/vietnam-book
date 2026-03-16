@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Coffee cup with steam -->
+  <rect x="8" y="16" width="16" height="12" rx="2" fill="#c0782c"/>
+  <rect x="6" y="14" width="20" height="4" rx="1" fill="#a6621e"/>
+  <path d="M24 18 Q28 18 28 22 Q28 26 24 26" stroke="#a6621e" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Steam -->
+  <path d="M12 12 Q13 9 12 6" stroke="#c0782c" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M16 11 Q17 8 16 5" stroke="#c0782c" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M20 12 Q21 9 20 6" stroke="#c0782c" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+</svg>
