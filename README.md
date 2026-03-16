@@ -2,7 +2,7 @@
 
 > 越南旅居篇 · 2025.7.14 — 9.12 · 鑫伟 (cubxxw)
 
-**🌐 在线阅读：[nsddd.me/vietnam-book](https://nsddd.me/vietnam-book/)**
+**🌐 在线阅读：[vietnam-book](https://cubxxw.github.io/vietnam-book/)**
 
 ---
 
