@@ -347,12 +347,47 @@
    章节元数据块 (写作时间、地点等)
    ================================================ */
 
-/* 章节顶部的 **写作时间：** 等元信息行 */
-.vp-doc p:has(strong:first-child) {
+/* H1 后第一个 p（包含 **时间范围：** 等元信息） */
+.vp-doc h1 + p {
   color: var(--vp-c-text-3);
-  font-size: 0.9rem;
+  font-size: 0.88rem;
   line-height: 1.7;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.04em;
+  border-left: 3px solid var(--vp-c-bg-mute);
+  padding-left: 0.8em;
+  margin-top: 0.5em;
+}
+
+/* 悬浮感状态块 —— H1 → p → hr → p 结构中第二个 p */
+.vp-doc hr + p {
+  background: linear-gradient(135deg, var(--vp-c-bg-soft), var(--vp-c-bg-mute));
+  border: 1px solid var(--vp-c-divider);
+  border-left: 3px solid var(--vp-c-brand-1);
+  border-radius: 0 4px 4px 0;
+  padding: 0.9em 1.2em;
+  color: var(--vp-c-text-2);
+  font-size: 0.94rem;
+  font-style: italic;
+  line-height: 1.85;
+}
+
+/* 章节末尾的关键词标签行（如 `悬浮感 Tinh Cam 在场性`）*/
+.vp-doc code:only-child,
+.vp-doc p > code {
+  display: inline-block;
+  background: var(--vp-c-bg-mute);
+  color: var(--vp-c-text-3);
+  font-size: 0.8rem;
+  border-radius: 3px;
+  padding: 0.1em 0.5em;
+  margin: 0.1em 0.2em;
+  font-family: var(--vp-font-family-base);
+  letter-spacing: 0.05em;
+}
+
+/* 最后一个 p 如果是纯代码标签行，弱化它 */
+.vp-doc p:last-of-type > code {
+  opacity: 0.6;
 }
 
 /* ================================================

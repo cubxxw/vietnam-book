@@ -5,6 +5,9 @@ export default defineConfig({
   title: '咖啡凉了，摩托还没停',
   description: '越南旅居篇 · 2025.7.14 — 9.12 · 鑫伟',
 
+  lastUpdated: true,
+  cleanUrls: true,
+
   head: [
     ['meta', { name: 'author', content: '鑫伟 (cubxxw)' }],
     ['meta', { property: 'og:title', content: '咖啡凉了，摩托还没停' }],
@@ -52,6 +55,13 @@ export default defineConfig({
     darkModeSwitchLabel: '明暗',
     lightModeSwitchTitle: '切换亮色',
     darkModeSwitchTitle: '切换暗色',
+
+    lastUpdated: {
+      text: '更新于',
+      formatOptions: {
+        dateStyle: 'short',
+      }
+    },
 
     docFooter: {
       prev: '上一章',
