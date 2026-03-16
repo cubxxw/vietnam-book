@@ -75,7 +75,7 @@ npm run build
 push → Actions build → GitHub Pages
 ```
 
-线上地址：**[nsddd.me/vietnam-book](https://nsddd.me/vietnam-book/)**
+线上地址：**[vietnam-book](https://cubxxw.github.io/vietnam-book/)**
 
 ---
 
