@@ -1,5 +1,15 @@
-node_modules/
-.vitepress/dist/
-.vitepress/cache/
+# Obsidian
+.obsidian/
+
+# macOS
 .DS_Store
 *.local
+
+# Node
+site/node_modules/
+site/.vitepress/dist/
+site/.vitepress/cache/
+
+# Raw notes (not for publication)
+vietnam-notes-raw.txt
+vietnam-notes.json
