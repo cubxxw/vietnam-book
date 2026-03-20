@@ -33,16 +33,15 @@ export default defineConfig({
         {
           text: '越南六十日',
           items: [
-            { text: '序 · 为什么是越南', link: '/chapters/prologue' },
-            { text: '胡志明：落地冲击', link: '/chapters/ch01-landing-shock' },
-            { text: '河内迷宫', link: '/chapters/ch02-hanoi-maze' },
-            { text: '会安时光', link: '/chapters/ch03-hoi-an-time' },
-            { text: '岘港与海', link: '/chapters/ch04-danang-sea' },
-            { text: '人与事', link: '/chapters/ch06-people-stories' },
-            { text: '食物人类学', link: '/chapters/ch07-food-anthropology' },
-            { text: '商业观察', link: '/chapters/ch08-business-observation' },
-            { text: '认知跃迁', link: '/chapters/ch09-cognitive-leap' },
-            { text: '终章 · 离开与归来', link: '/chapters/ch10-epilogue' },
+            { text: '序 · 悬浮', link: '/chapters/prologue' },
+            { text: '第一章 · 胡志明：落地', link: '/chapters/ch01-landing-shock' },
+            { text: '第二章 · 大叻：静止', link: '/chapters/ch02-dalat' },
+            { text: '第三章 · 芽庄：海', link: '/chapters/ch03-nhatrang' },
+            { text: '第四章 · 会安：在场', link: '/chapters/ch04-hoi-an' },
+            { text: '第五章 · 岘港：过渡', link: '/chapters/ch05-danang' },
+            { text: '第六章 · 顺化：无常', link: '/chapters/ch06-hue' },
+            { text: '第七章 · 河内：叙事', link: '/chapters/ch07-hanoi' },
+            { text: '终章 · 重量', link: '/chapters/ch08-epilogue' },
           ]
         }
       ]

@@ -2,11 +2,11 @@
 title: 第一章 · 胡志明：落地冲击
 description: 东京飞来的三小时，那套秩序在这里完全失效，越南的逻辑还没进入，你就悬在那里。
 prev:
-  text: '序 · 为什么是越南'
+  text: '序 · 悬浮'
   link: /chapters/prologue
 next:
-  text: '第二章 · 河内迷宫'
-  link: /chapters/ch02-hanoi-maze
+  text: '第二章 · 大叻：静止'
+  link: /chapters/ch02-dalat
 ---
 
 # 第一章 胡志明：落地冲击与城市解剖
