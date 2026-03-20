@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: process.env.GITHUB_ACTIONS ? '/vietnam-book/' : '/',
+  base: '/',
 
   vite: {
     assetsInclude: ['**/*.JPG', '**/*.JPEG', '**/*.PNG', '**/*.GIF', '**/*.WEBP'],
