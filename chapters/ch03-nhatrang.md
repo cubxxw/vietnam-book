@@ -84,8 +84,8 @@ next:
 **这就是一期一会：因为知道不会再来，所以在场。**
 
 <div style="display: flex; gap: 10px;">
-  <img src="../assets/IMG_20250809_165630.jpeg" style="width: 50%;" />
-  <img src="../assets/image_1754748746990.jpeg" style="width: 50%;" />
+  <img src="/assets/IMG_20250809_165630.jpeg" style="width: 50%;" />
+  <img src="/assets/image_1754748746990.jpeg" style="width: 50%;" />
 </div>
 
 我们对彼此的成长都是最诚实的见证者——不是因为特别亲密，而是因为两次相遇之间有足够的时间和距离，可以看清楚那个人究竟发生了什么。

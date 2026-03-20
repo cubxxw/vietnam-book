@@ -48,8 +48,8 @@ next:
 不知道是他进入了什么状态，还是那一刻，是我出了神。
 
 <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <img src="../assets/IMG_20250830_130018.jpg" style="width: 50%;" />
-  <img src="../assets/IMG_20250830_145124.jpg" style="width: 50%;" />
+  <img src="/assets/IMG_20250830_130018.jpg" style="width: 50%;" />
+  <img src="/assets/IMG_20250830_145124.jpg" style="width: 50%;" />
 </div>
 
 「雨不是外物，而是一部分。」我后来把这句话记在日记里。
@@ -77,8 +77,8 @@ next:
 不是那种完整的、精致的、被保护起来的美，而是一种**物衰的美学**——事物在时间里腐朽，在这个过程中，它的内部结构慢慢显露出来，那些隐藏在表面之下的骨头开始被看见。
 
 <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <img src="../assets/IMG_20250831_123729.jpg" style="width: 50%;" />
-  <img src="../assets/IMG_20250831_124806.jpg" style="width: 50%;" />
+  <img src="/assets/IMG_20250831_123729.jpg" style="width: 50%;" />
+  <img src="/assets/IMG_20250831_124806.jpg" style="width: 50%;" />
 </div>
 
 废弃的东西，有一种诚实。

@@ -61,10 +61,10 @@ next:
   gap: 10px;
   margin-bottom: 10px;
 ">
-  <img src="../assets/IMG_20250902_082913.jpg" style="width: 100%;" />
-  <img src="../assets/IMG_20250902_080721.jpg" style="width: 100%;" />
-  <img src="../assets/IMG_20250902_080535.jpg" style="width: 100%;" />
-  <img src="../assets/IMG_20250902_075823.jpg" style="width: 100%;" />
+  <img src="/assets/IMG_20250902_082913.jpg" style="width: 100%;" />
+  <img src="/assets/IMG_20250902_080721.jpg" style="width: 100%;" />
+  <img src="/assets/IMG_20250902_080535.jpg" style="width: 100%;" />
+  <img src="/assets/IMG_20250902_075823.jpg" style="width: 100%;" />
 </div>
 
 越南的独立不是外面送来的，是他们自己打下来的。胡志明领导的民族主义运动，武元甲指挥的游击战和持久战——这场战争的胜利根植于广大人民的参与，而不是依靠外部大国的恩赐。
@@ -116,8 +116,8 @@ next:
 醉意让我暂时摘掉了那副用来适应的眼镜。那一刻我看到了：我们都是演员，包括我自己。
 
 <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <img src="../assets/IMG_20250906_173136.jpg" style="width: 50%;" />
-  <img src="../assets/IMG_20250904_174941.jpg" style="width: 50%;" />
+  <img src="/assets/IMG_20250906_173136.jpg" style="width: 50%;" />
+  <img src="/assets/IMG_20250904_174941.jpg" style="width: 50%;" />
 </div>
 
 然后又写了一句：「只有那些感到格格不入的人，才有可能真正改变什么。」
