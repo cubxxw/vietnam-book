@@ -30,8 +30,8 @@ next:
 岘港在地理上是一个过渡——北边是会安和顺化，南边是大叻和芽庄。它本身没有会安那种历史浓度，也没有大叻那种安静，但有它自己的节奏：更现代，更直接，更不在乎给人留下什么印象。
 
 <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <img src="/assets/IMG_20250819_175019.jpg" style="width: 50%;" />
-  <img src="/assets/IMG_20250822_103544.jpg" style="width: 50%;" />
+  <img src="./assets/IMG_20250819_175019.jpg" style="width: 50%;" />
+  <img src="./assets/IMG_20250822_103544.jpg" style="width: 50%;" />
 </div>
 
 ---
@@ -71,8 +71,8 @@ next:
 我在 NAM House 坐了两个小时，什么也没想，只是听着歌。出门的时候，觉得时间过了很久，但也觉得时间过了很短。
 
 <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <img src="/assets/IMG_20250826_164246.jpg" style="width: 50%;" />
-  <img src="/assets/IMG_20250827_153452.jpg" style="width: 50%;" />
+  <img src="./assets/IMG_20250826_164246.jpg" style="width: 50%;" />
+  <img src="./assets/IMG_20250827_153452.jpg" style="width: 50%;" />
 </div>
 
 岘港是一个过渡，但这个过渡很重要——它让我从会安的情绪密度里走出来，在到达顺化之前，先安静一会儿。
