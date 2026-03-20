@@ -2,6 +2,10 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   base: process.env.GITHUB_ACTIONS ? '/vietnam-book/' : '/',
+
+  vite: {
+    assetsInclude: ['**/*.JPG', '**/*.JPEG', '**/*.PNG', '**/*.GIF', '**/*.WEBP'],
+  },
   lang: 'zh-CN',
   title: '咖啡凉了，摩托还没停',
   description: '越南旅居篇 · 2025.7.14 — 9.12 · 鑫伟',
