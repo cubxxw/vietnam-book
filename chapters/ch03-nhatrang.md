@@ -29,9 +29,13 @@ next:
 
 也许是因为海。海是不讲规则的，它永远在你面前铺展，等你去或者不去，都无所谓。
 
+<img src="./assets/IMG_20250803_154116.JPG" style="width: 100%; border-radius: 4px; margin-top: 16px;" />
+
 ---
 
 ## 3.2 什么都不做的两小时
+
+<img src="./assets/image_1754394377987.JPG" style="width: 100%; border-radius: 4px; margin-bottom: 16px;" />
 
 某个没有信号的海边，下午两点多。
 
@@ -52,6 +56,12 @@ next:
 不是因为我特别努力地「夺回」了它，而是因为没有信号，因为一片海，因为刚好就那样发生了。
 
 这是这趟旅行里最诚实的时刻之一。
+
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; margin-top: 16px;">
+  <img src="./assets/IMG_20250808_094547.JPG" style="width: 100%;" />
+  <img src="./assets/IMG_20250808_100309.JPG" style="width: 100%;" />
+  <img src="./assets/IMG_20250808_104420.JPG" style="width: 100%;" />
+</div>
 
 ---
 

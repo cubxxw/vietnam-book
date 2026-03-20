@@ -29,9 +29,12 @@ next:
 
 岘港在地理上是一个过渡——北边是会安和顺化，南边是大叻和芽庄。它本身没有会安那种历史浓度，也没有大叻那种安静，但有它自己的节奏：更现代，更直接，更不在乎给人留下什么印象。
 
-<div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <img src="./assets/IMG_20250819_175019.jpg" style="width: 50%;" />
-  <img src="./assets/IMG_20250822_103544.jpg" style="width: 50%;" />
+<div style="display: grid; grid-template-columns: 2fr 1fr; gap: 8px; margin-bottom: 10px;">
+  <img src="./assets/IMG_20250819_123230.JPG" style="width: 100%;" />
+  <div style="display: flex; flex-direction: column; gap: 8px;">
+    <img src="./assets/IMG_20250819_175019.jpg" style="width: 100%;" />
+    <img src="./assets/IMG_20250822_103544.jpg" style="width: 100%;" />
+  </div>
 </div>
 
 ---

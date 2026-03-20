@@ -87,6 +87,8 @@ next:
 
 **悬浮感的一部分原因，也许就是：失去了自己故事里的主角位置。**
 
+<img src="./assets/IMG_20250908_145812.JPG" style="width: 100%; border-radius: 4px; margin-top: 16px;" />
+
 ---
 
 ## 7.4 喝醉那晚：摘掉的那副眼镜
