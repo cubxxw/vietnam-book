@@ -30,6 +30,8 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '开始阅读', link: '/chapters/prologue' },
       { text: '章节目录', link: '/chapters/' },
+      { text: '作者博客', link: 'https://nsddd.top/' },
+      { text: 'GitHub', link: 'https://github.com/cubxxw/vietnam-book' },
     ],
 
     sidebar: {
