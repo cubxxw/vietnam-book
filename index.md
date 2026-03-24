@@ -4,7 +4,7 @@ title: 咖啡凉了，摩托还没停
 hero:
   name: "咖啡凉了，摩托还没停"
   text: "越南旅居篇 · 2025.7.14 — 9.12"
-  tagline: "两百万辆摩托车，和我这个多余的人"
+  tagline: "Coffee cools down. Motorbikes don't. 两百万辆摩托车，和我这个多余的人。"
   actions:
     - theme: brand
       text: 从序言开始
@@ -24,15 +24,123 @@ features:
     details: 序章至终章，完整叙事弧。AI 时代里，一个人如何重新找到自己在场的感觉。
 ---
 
+<section class="home-cinematic">
+  <div class="home-cinematic__intro">
+    <p class="home-cinematic__eyebrow">Vietnam Residency Notes · 2025 Summer</p>
+    <h2 class="home-cinematic__title">不是旅游攻略，是一次把自己重新放回地面的尝试。</h2>
+    <p class="home-cinematic__lede">
+      从胡志明的落地冲击，到大叻的静止、芽庄的海、会安的在场、顺化的无常，再到河内的叙事，
+      这本书记录的不是“去了哪里”，而是一个人如何重新感到自己真的活在世界里。
+    </p>
+  </div>
+
+  <div class="home-rail">
+    <div class="home-rail__line"></div>
+    <div class="home-rail__item">
+      <span class="home-rail__city">Saigon</span>
+      <span class="home-rail__note">Landing Shock</span>
+    </div>
+    <div class="home-rail__item">
+      <span class="home-rail__city">Da Lat</span>
+      <span class="home-rail__note">Stillness</span>
+    </div>
+    <div class="home-rail__item">
+      <span class="home-rail__city">Hoi An</span>
+      <span class="home-rail__note">Presence</span>
+    </div>
+    <div class="home-rail__item">
+      <span class="home-rail__city">Hue</span>
+      <span class="home-rail__note">Impermanence</span>
+    </div>
+    <div class="home-rail__item">
+      <span class="home-rail__city">Hanoi</span>
+      <span class="home-rail__note">Narrative</span>
+    </div>
+  </div>
+
+  <div class="home-flow-grid">
+    <div class="home-scene home-scene--wide">
+      <a class="home-scene__link" href="/chapters/ch01-landing-shock">
+        <img src="/chapters/assets/IMG_20250908_145812.JPG" alt="河内街头的摩托车流" />
+        <div class="home-scene__overlay">
+          <p class="home-scene__chapter">Chapter 01 · 胡志明</p>
+          <h3>Order broke first.</h3>
+          <p>先失效的不是地图，是你对系统的轻视。</p>
+        </div>
+      </a>
+    </div>
+    <div class="home-scene">
+      <a class="home-scene__link" href="/chapters/ch02-dalat">
+        <img src="/chapters/assets/IMG_20250723_110650.JPG" alt="大叻的山城与建筑" />
+        <div class="home-scene__overlay">
+          <p class="home-scene__chapter">Chapter 02 · 大叻</p>
+          <h3>Stillness has a temperature.</h3>
+          <p>23 度，逼着感官重新醒过来。</p>
+        </div>
+      </a>
+    </div>
+    <div class="home-scene">
+      <a class="home-scene__link" href="/chapters/ch03-nhatrang">
+        <img src="/chapters/assets/image_1754394377987.JPG" alt="芽庄海边的躺椅与海面" />
+        <div class="home-scene__overlay">
+          <p class="home-scene__chapter">Chapter 03 · 芽庄</p>
+          <h3>Sea as a quiet correction.</h3>
+          <p>什么都不做的两小时，比许多答案更诚实。</p>
+        </div>
+      </a>
+    </div>
+    <div class="home-scene">
+      <a class="home-scene__link" href="/chapters/ch04-hoi-an">
+        <img src="/chapters/assets/IMG_20250810_125825.JPG" alt="会安街景与夜色" />
+        <div class="home-scene__overlay">
+          <p class="home-scene__chapter">Chapter 04 · 会安</p>
+          <h3>Silence speaks louder.</h3>
+          <p>真正击穿你的，不一定是观点，而是一个老人点香的背影。</p>
+        </div>
+      </a>
+    </div>
+    <div class="home-scene">
+      <a class="home-scene__link" href="/chapters/ch06-hue">
+        <img src="/chapters/assets/IMG_20250830_130018.jpg" alt="顺化建筑与日常街头" />
+        <div class="home-scene__overlay">
+          <p class="home-scene__chapter">Chapter 06 · 顺化</p>
+          <h3>Stone keeps better time.</h3>
+          <p>你站得足够久，石头会比语言更先开口。</p>
+        </div>
+      </a>
+    </div>
+    <div class="home-scene home-scene--tall">
+      <a class="home-scene__link" href="/chapters/ch07-hanoi">
+        <img src="/chapters/assets/IMG_20250902_082913.jpg" alt="河内街头的人与建筑" />
+        <div class="home-scene__overlay">
+          <p class="home-scene__chapter">Chapter 07 · 河内</p>
+          <h3>Every city edits memory.</h3>
+          <p>历史、发展、欲望与自我叙事，在同一张桌子上说话。</p>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <div class="home-manifesto">
+    <div class="home-manifesto__label">A Book About Weight</div>
+    <p>
+      这是一本关于“重量感”的书。不是反 AI，不是反效率，也不是浪漫化远方。
+      它只是认真追问一个问题：当一切都越来越快，一个人如何不把自己活成纯粹的功能模块？
+    </p>
+  </div>
+</section>
+
 <div class="home-lead-essay">
 
 ---
 
-**越南旅居篇 · 2025.7.14 — 9.12**
+<p class="home-lead-essay__meta">越南旅居篇 · 2025.7.14 — 9.12 · Written in Autumn 2025 — Spring 2026</p>
+
+<p class="home-lead-essay__quote">“Coffee cools down. Motorbikes don’t.”</p>
 
 *「两百万辆摩托车，和我这个多余的人」*
 
-*「我不关心AI，我关心这个时代里的人」*
+*「我不关心 AI，我关心这个时代里的人」*
 
 ---
 
