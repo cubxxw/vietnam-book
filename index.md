@@ -58,6 +58,19 @@ features:
     </div>
   </div>
 
+  <div class="home-journey-map">
+    <div class="home-journey-map__header">
+      <span class="home-journey-map__icon">🗺️</span>
+      <span class="home-journey-map__title">My Journey Across Vietnam</span>
+    </div>
+    <iframe 
+      src="https://www.polarsteps.com/cubxxw/19561627-yue-nan-lu-ju-pian/embed" 
+      frameborder="0" 
+      allowfullscreen
+    ></iframe>
+    <p class="home-journey-map__caption">60 days · 8 cities · One suspended person finding ground</p>
+  </div>
+
   <div class="home-flow-grid">
     <div class="home-scene home-scene--wide">
       <a class="home-scene__link" href="/chapters/ch01-landing-shock">
