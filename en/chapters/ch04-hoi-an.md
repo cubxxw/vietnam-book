@@ -3,10 +3,10 @@ title: 'Chapter 4: Hoi An - Presence'
 description: 'You can skip the museum, can maintain a safe observer stance toward culture. But you cannot not eat.'
 prev:
   text: 'Chapter 3: Nha Trang - Sea'
-  link: /en/chapters/ch03-nhatrang
+  link: '/en/chapters/ch03-nhatrang'
 next:
   text: 'Chapter 5: Da Nang - Transition'
-  link: /en/chapters/ch05-danang
+  link: '/en/chapters/ch05-danang'
 ---
 
 # Chapter 4: Hoi An - Presence

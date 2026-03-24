@@ -3,7 +3,7 @@ title: 'Epilogue: Weight'
 description: 'Coffee cools down. Motorbikes do not stop.'
 prev:
   text: 'Chapter 7: Hanoi - Narrative'
-  link: /en/chapters/ch07-hanoi
+  link: '/en/chapters/ch07-hanoi'
 ---
 
 # Epilogue: Weight

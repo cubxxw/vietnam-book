@@ -3,10 +3,10 @@ title: 'Chapter 3: Nha Trang - Sea'
 description: 'Those two hours of doing nothing were among my clearest moments in 2025.'
 prev:
   text: 'Chapter 2: Da Lat - Stillness'
-  link: /en/chapters/ch02-dalat
+  link: '/en/chapters/ch02-dalat'
 next:
   text: 'Chapter 4: Hoi An - Presence'
-  link: /en/chapters/ch04-hoi-an
+  link: '/en/chapters/ch04-hoi-an'
 ---
 
 # Chapter 3: Nha Trang - Sea

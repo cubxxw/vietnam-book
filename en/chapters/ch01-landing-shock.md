@@ -3,10 +3,10 @@ title: 'Chapter 1: Ho Chi Minh - Landing Shock'
 description: 'Three hours from Tokyo, that order completely失效 s here, Vietnam logic not yet entered, you are suspended there.'
 prev:
   text: 'Prologue: Suspension'
-  link: /en/chapters/prologue
+  link: '/en/chapters/prologue'
 next:
   text: 'Chapter 2: Da Lat - Stillness'
-  link: /en/chapters/ch02-dalat
+  link: '/en/chapters/ch02-dalat'
 ---
 
 # Chapter 1: Ho Chi Minh - Landing Shock and Urban Dissection

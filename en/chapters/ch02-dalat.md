@@ -3,10 +3,10 @@ title: 'Chapter 2: Da Lat - Stillness'
 description: 'Da Lat, 23°C. A city tells you with low temperature: you can slow down now.'
 prev:
   text: 'Chapter 1: Ho Chi Minh - Landing Shock'
-  link: /en/chapters/ch01-landing-shock
+  link: '/en/chapters/ch01-landing-shock'
 next:
   text: 'Chapter 3: Nha Trang - Sea'
-  link: /en/chapters/ch03-nhatrang
+  link: '/en/chapters/ch03-nhatrang'
 ---
 
 # Chapter 2: Da Lat - Stillness
