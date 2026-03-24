@@ -1,12 +1,12 @@
 ---
 title: 'Chapter 7: Hanoi - Narrative'
-description: 'A military parade helped me understand why in Vietnam's National Day, some students in the formation laughed, and no one thought anything was wrong.'
+description: "A military parade helped me understand why in Vietnam's National Day, some students in the formation laughed, and no one thought anything was wrong."
 prev:
   text: 'Chapter 6: Hue - Impermanence'
-  link: /en/chapters/ch06-hue
+  link: '/en/chapters/ch06-hue'
 next:
   text: 'Epilogue: Weight'
-  link: /en/chapters/ch08-epilogue
+  link: '/en/chapters/ch08-epilogue'
 ---
 
 # Chapter 7: Hanoi - Narrative
