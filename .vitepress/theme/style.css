@@ -1103,17 +1103,35 @@
   .VPNav .language-switcher {
     margin-left: 0.5rem;
   }
-  
+
   .language-button {
     padding: 0.25rem 0.5rem;
     font-size: 0.75rem;
   }
-  
+
   .language-label {
     display: none;
   }
-  
+
   .language-icon {
     font-size: 1.125rem;
   }
+}
+
+/* ================================================
+   Utterances 评论区域样式
+   ================================================ */
+
+.utterances {
+  max-width: 740px;
+  margin: 0 auto;
+}
+
+.utterances iframe {
+  color-scheme: normal !important;
+}
+
+/* 暗色模式适配 */
+.dark .utterances iframe {
+  color-scheme: dark !important;
 }
