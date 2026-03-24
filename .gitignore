@@ -3,3 +3,8 @@ node_modules/
 .vitepress/cache/
 .DS_Store
 *.local
+site/
+.obsidian/
+plugins/
+
+
