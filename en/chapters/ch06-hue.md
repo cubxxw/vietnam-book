@@ -1,12 +1,12 @@
 ---
 title: 'Chapter 6: Hue - Impermanence'
-description: 'Stone doesn't speak, but stand before it long enough, and it will speak.'
+description: "Stone doesn't speak, but stand before it long enough, and it will speak."
 prev:
   text: 'Chapter 5: Da Nang - Transition'
-  link: /en/chapters/ch05-danang
+  link: '/en/chapters/ch05-danang'
 next:
   text: 'Chapter 7: Hanoi - Narrative'
-  link: /en/chapters/ch07-hanoi
+  link: '/en/chapters/ch07-hanoi'
 ---
 
 # Chapter 6: Hue - Impermanence
