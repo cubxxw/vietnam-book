@@ -1,12 +1,12 @@
 ---
 title: 'Chapter 5: Da Nang - Transition'
-description: 'Next to Asia's most beautiful beach, I was wondering why coffee skins can also make tea.'
+description: "Next to Asia's most beautiful beach, I was wondering why coffee skins can also make tea."
 prev:
   text: 'Chapter 4: Hoi An - Presence'
-  link: /en/chapters/ch04-hoi-an
+  link: '/en/chapters/ch04-hoi-an'
 next:
   text: 'Chapter 6: Hue - Impermanence'
-  link: /en/chapters/ch06-hue
+  link: '/en/chapters/ch06-hue'
 ---
 
 # Chapter 5: Da Nang - Transition
