@@ -1135,3 +1135,36 @@
 .dark .utterances iframe {
   color-scheme: dark !important;
 }
+
+/* ================================================
+   Journey Map Embed - Polarsteps
+   ================================================ */
+
+.journey-map {
+  margin: 2rem 0 3rem;
+  padding: 1.5rem;
+  background: linear-gradient(135deg, #f9f3eb 0%, #f0e6d6 100%);
+  border-radius: 16px;
+  border: 1px solid var(--vp-c-divider);
+  box-shadow: 0 2px 12px rgba(192, 120, 44, 0.08);
+}
+
+.journey-map iframe {
+  width: 100%;
+  display: block;
+}
+
+.journey-map__caption {
+  text-align: center;
+  margin-top: 1rem;
+  font-size: 0.875rem;
+  color: var(--vp-c-text-3);
+  font-style: italic;
+}
+
+@media (max-width: 768px) {
+  .journey-map {
+    padding: 1rem;
+    margin: 1.5rem 0 2rem;
+  }
+}

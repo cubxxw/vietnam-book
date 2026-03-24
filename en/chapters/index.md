@@ -9,9 +9,21 @@ description: Sixty Days in Vietnam · Complete Chapter Index
     <h1>Sixty Days in Vietnam</h1>
     <p class="chapters-hub__lede">
       This is not a tourist checklist, but a route of perception reawakening. Each chapter corresponds to a city,
-      and also to a change in psychological state: from suspension, landing, stillness, to presence, transition, 
+      and also to a change in psychological state: from suspension, landing, stillness, to presence, transition,
       impermanence, narrative, and finally weight.
     </p>
+  </div>
+
+  <div class="journey-map">
+    <iframe 
+      width="100%" 
+      height="480" 
+      src="https://www.polarsteps.com/cubxxw/19561627-yue-nan-lu-ju-pian/embed" 
+      frameborder="0" 
+      allowfullscreen
+      style="border-radius: 12px; box-shadow: 0 4px 24px rgba(0,0,0,0.08);"
+    ></iframe>
+    <p class="journey-map__caption">My 60-day journey across Vietnam</p>
   </div>
 
   <div class="chapters-hub__stats">

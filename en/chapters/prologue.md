@@ -3,7 +3,7 @@ title: 'Prologue: Suspension'
 description: 'Not in a bad mood. Not confused. A concrete bodily sensation—like standing between two systems, feet unable to touch the ground, grasping nothing real.'
 next:
   text: 'Chapter 1: Ho Chi Minh - Landing Shock'
-  link: /en/chapters/ch01-landing-shock
+  link: '/en/chapters/ch01-landing-shock'
 ---
 
 # Prologue: Suspension
