@@ -34,9 +34,10 @@
   /* 导航栏 */
   --vp-nav-bg-color: rgba(250, 246, 240, 0.96);
 
-  /* 字体 */
+  /* 字体 - 支持中文、越南文、英文 */
   --vp-font-family-base:
     'Noto Serif SC',
+    'Noto Serif Vietnamese',
     'Songti SC',
     'STSong',
     'FangSong',
@@ -53,6 +54,13 @@
   --vp-font-family-display:
     'Cormorant Garamond',
     'Times New Roman',
+    serif;
+
+  /* 越南语特殊字体支持 */
+  --vp-font-family-vi:
+    'Noto Serif Vietnamese',
+    'Noto Serif',
+    Georgia,
     serif;
 }
 
@@ -1050,5 +1058,62 @@
 
   .chapter-card__content h2 {
     font-size: 1.1rem !important;
+  }
+}
+
+/* ================================================
+   多语言支持样式
+   ================================================ */
+
+/* 越南语文本特殊优化 */
+[lang="vi"] .vp-doc p,
+[lang="vi"] .vp-doc h1,
+[lang="vi"] .vp-doc h2,
+[lang="vi"] .vp-doc h3 {
+  font-family: var(--vp-font-family-vi);
+  line-height: 2.1;
+  letter-spacing: 0.02em;
+}
+
+/* 英文文本优化 */
+[lang="en"] .vp-doc p,
+[lang="en"] .vp-doc h1,
+[lang="en"] .vp-doc h2,
+[lang="en"] .vp-doc h3 {
+  line-height: 1.9;
+  letter-spacing: 0.01em;
+}
+
+/* 中文文本优化 */
+[lang="zh-CN"] .vp-doc p,
+[lang="zh-CN"] .vp-doc h1,
+[lang="zh-CN"] .vp-doc h2,
+[lang="zh-CN"] .vp-doc h3 {
+  line-height: 2.0;
+  letter-spacing: 0.045em;
+}
+
+/* 语言切换器导航栏样式 */
+.VPNav .language-switcher {
+  margin-left: 1rem;
+}
+
+/* 响应式语言切换器 */
+@media (max-width: 768px) {
+  .VPNav .language-switcher {
+    margin-left: 0.5rem;
+  }
+  
+  .language-button {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.75rem;
+  }
+  
+  .language-label {
+    display: none;
+  }
+  
+  .language-icon {
+    font-size: 1.125rem;
   }
 }
