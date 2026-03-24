@@ -34,9 +34,9 @@ Bánh Mì Phượng——Anthony Bourdain từng nói nó là «món sandwich ng
 **食物是理解一个地方最诚实的入口。因为它没有给你保持距离的选项。**
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; margin-bottom: 10px;">
-  <img src="./assets/IMG_20250815_182032.JPG" style="width: 100%;" />
-  <img src="./assets/IMG_20250813_180503.jpg" style="width: 100%;" />
-  <img src="./assets/IMG_20250810_124950.JPG" style="width: 100%;" />
+  <img src="/chapters/assets/IMG_20250815_182032.JPG" style="width: 100%;" />
+  <img src="/chapters/assets/IMG_20250813_180503.jpg" style="width: 100%;" />
+  <img src="/chapters/assets/IMG_20250810_124950.JPG" style="width: 100%;" />
 </div>
 
 ---
@@ -48,8 +48,8 @@ Bánh Mì Phượng——Anthony Bourdain từng nói nó là «món sandwich ng
 数以千计的彩色灯笼挂在木质建筑之间，每到夜晚点亮，呈现出一种精心设计的「时光倒流感」。游客排队拍照，甲方会在任何一张照片上盖章满意。
 
 <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <img src="./assets/IMG_20250815_175518.JPG" style="width: 50%;" />
-  <img src="./assets/IMG_20250812_183434.JPG" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250815_175518.JPG" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250812_183434.JPG" style="width: 50%;" />
 </div>
 
 但我想起一个丝绸店老板娘说过的话。
@@ -97,8 +97,8 @@ Bánh Mì Phượng——Anthony Bourdain từng nói nó là «món sandwich ng
 老太太拍了拍衣服，走了，没有回头。我一个人坐在河边，又坐了很久。
 
 <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <img src="./assets/IMG_20250813_174415.jpeg" style="width: 50%;" />
-  <img src="./assets/IMG_20250814_173849.jpeg" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250813_174415.jpeg" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250814_173849.jpeg" style="width: 50%;" />
 </div>
 
 ---
@@ -139,7 +139,7 @@ Bánh Mì Phượng——Anthony Bourdain từng nói nó là «món sandwich ng
 
 外面的街道照旧。
 
-<img src="./assets/IMG_20250810_125825.JPG" style="width: 100%; border-radius: 4px; margin-top: 16px;" />
+<img src="/chapters/assets/IMG_20250810_125825.JPG" style="width: 100%; border-radius: 4px; margin-top: 16px;" />
 
 ---
 

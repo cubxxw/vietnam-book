@@ -34,9 +34,9 @@ You can skip the museum, can maintain a safe observer stance toward culture. But
 **Food is the most honest entry point to understanding a place. Because it gives you no option to keep your distance.**
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; margin-bottom: 10px;">
-  <img src="./assets/IMG_20250815_182032.JPG" style="width: 100%;" />
-  <img src="./assets/IMG_20250813_180503.jpg" style="width: 100%;" />
-  <img src="./assets/IMG_20250810_124950.JPG" style="width: 100%;" />
+  <img src="/chapters/assets/IMG_20250815_182032.JPG" style="width: 100%;" />
+  <img src="/chapters/assets/IMG_20250813_180503.jpg" style="width: 100%;" />
+  <img src="/chapters/assets/IMG_20250810_124950.JPG" style="width: 100%;" />
 </div>
 
 ---
@@ -48,8 +48,8 @@ Hoi An Ancient Town's lanterns are managed beauty.
 Thousands of colorful lanterns hang between wooden structures, lighting up every night, presenting a carefully designed "sense of time reversal." Tourists line up to take photos, clients would stamp satisfaction on any photo.
 
 <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <img src="./assets/IMG_20250815_175518.JPG" style="width: 50%;" />
-  <img src="./assets/IMG_20250812_183434.JPG" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250815_175518.JPG" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250812_183434.JPG" style="width: 50%;" />
 </div>
 
 But I remembered what a silk shop owner once said.
@@ -97,8 +97,8 @@ I realized that for these six days, I had been standing on the side, never going
 The old woman patted her clothes and walked away, didn't look back. I sat by the river alone, sat for a long time.
 
 <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <img src="./assets/IMG_20250813_174415.jpeg" style="width: 50%;" />
-  <img src="./assets/IMG_20250814_173849.jpeg" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250813_174415.jpeg" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250814_173849.jpeg" style="width: 50%;" />
 </div>
 
 ---
@@ -139,7 +139,7 @@ Pushed the baseball cap down a bit, paid, walked out.
 
 The street outside was as usual.
 
-<img src="./assets/IMG_20250810_125825.JPG" style="width: 100%; border-radius: 4px; margin-top: 16px;" />
+<img src="/chapters/assets/IMG_20250810_125825.JPG" style="width: 100%; border-radius: 4px; margin-top: 16px;" />
 
 ---
 

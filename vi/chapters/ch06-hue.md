@@ -48,8 +48,8 @@ Tôi không làm phiền anh ta. Ngồi dưới hiên, nhìn anh ta rất lâu.
 Không biết là anh ta đã vào trạng thái gì, hay là khoảnh khắc đó, là tôi xuất thần.
 
 <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <img src="./assets/IMG_20250830_130018.jpg" style="width: 50%;" />
-  <img src="./assets/IMG_20250830_145124.jpg" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250830_130018.jpg" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250830_145124.jpg" style="width: 50%;" />
 </div>
 
 「Mưa không phải ngoại vật, mà là một phần.」Tôi sau này đem câu này ghi vào nhật ký.
@@ -77,8 +77,8 @@ Có một loại mỹ cảm không nói rõ được.
 Không phải loại mỹ cảm hoàn chỉnh, tinh tế, được bảo vệ, mà là một loại**mỹ học vật suy**—sự vật mục nát trong thời gian, trong quá trình này, kết cấu nội bộ của nó từ từ lộ ra, những bộ xương ẩn giấu dưới bề mặt bắt đầu được nhìn thấy.
 
 <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <img src="./assets/IMG_20250831_123729.jpg" style="width: 50%;" />
-  <img src="./assets/IMG_20250831_124806.jpg" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250831_123729.jpg" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250831_124806.jpg" style="width: 50%;" />
 </div>
 
 Đồ bị bỏ hoang, có một loại chân thật.

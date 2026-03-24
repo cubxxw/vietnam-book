@@ -30,10 +30,10 @@ I ran here, swam here, did nothing here.
 Geographically, Da Nang is a transition—north is Hoi An and Hue, south is Da Lat and Nha Trang. It itself doesn't have the historical concentration of Hoi An, nor the quietness of Da Lat, but it has its own rhythm: more modern, more direct, more indifferent to leaving any impression.
 
 <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 8px; margin-bottom: 10px;">
-  <img src="./assets/IMG_20250819_123230.JPG" style="width: 100%;" />
+  <img src="/chapters/assets/IMG_20250819_123230.JPG" style="width: 100%;" />
   <div style="display: flex; flex-direction: column; gap: 8px;">
-    <img src="./assets/IMG_20250819_175019.jpg" style="width: 100%;" />
-    <img src="./assets/IMG_20250822_103544.jpg" style="width: 100%;" />
+    <img src="/chapters/assets/IMG_20250819_175019.jpg" style="width: 100%;" />
+    <img src="/chapters/assets/IMG_20250822_103544.jpg" style="width: 100%;" />
   </div>
 </div>
 
@@ -74,8 +74,8 @@ I wasn't sure if this "nostalgia" was real or designed. But I realized: these tw
 I sat in NAM House for two hours, thinking about nothing, just listening to the music. When I walked out, I felt time had passed for a long time, but also felt time had passed very quickly.
 
 <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <img src="./assets/IMG_20250826_164246.jpg" style="width: 50%;" />
-  <img src="./assets/IMG_20250827_153452.jpg" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250826_164246.jpg" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250827_153452.jpg" style="width: 50%;" />
 </div>
 
 Da Nang is a transition, but this transition is important—it let me walk out of the emotional density of Hoi An, before arriving in Hue, to quiet down for a while.

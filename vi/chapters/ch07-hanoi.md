@@ -61,10 +61,10 @@ Không phải ngưỡng mộ chế độ hay kinh tế của Việt Nam, mà là
   gap: 10px;
   margin-bottom: 10px;
 ">
-  <img src="./assets/IMG_20250902_082913.jpg" style="width: 100%;" />
-  <img src="./assets/IMG_20250902_080721.jpg" style="width: 100%;" />
-  <img src="./assets/IMG_20250902_080535.jpg" style="width: 100%;" />
-  <img src="./assets/IMG_20250902_075823.jpg" style="width: 100%;" />
+  <img src="/chapters/assets/IMG_20250902_082913.jpg" style="width: 100%;" />
+  <img src="/chapters/assets/IMG_20250902_080721.jpg" style="width: 100%;" />
+  <img src="/chapters/assets/IMG_20250902_080535.jpg" style="width: 100%;" />
+  <img src="/chapters/assets/IMG_20250902_075823.jpg" style="width: 100%;" />
 </div>
 
 Độc lập của Việt Nam không phải từ bên ngoài mang đến, là họ tự mình đánh ra được. Phong trào dân tộc chủ nghĩa do Hồ Chí Minh lãnh đạo, chiến tranh du kích và chiến tranh trường kỳ do Võ Nguyên Giáp chỉ huy—thắng lợi của cuộc chiến này bén rễ trong sự tham gia rộng rãi của nhân dân, chứ không phải dựa vào ân tứ của cường quốc bên ngoài.
@@ -87,7 +87,7 @@ Thuật toán liên tục đang kể cho bạn một câu chuyện về «bạn 
 
 **Một phần nguyên nhân của cảm giác treo lơ lửng, có lẽ chính là: mất đi vị trí nhân vật chính trong câu chuyện của chính mình.**
 
-<img src="./assets/IMG_20250908_145812.JPG" style="width: 100%; border-radius: 4px; margin-top: 16px;" />
+<img src="/chapters/assets/IMG_20250908_145812.JPG" style="width: 100%; border-radius: 4px; margin-top: 16px;" />
 
 ---
 
@@ -118,8 +118,8 @@ Sau đó vào khoảnh khắc nào đó, tôi cúi đầu, không biết đang n
 Say để tôi tạm thời cởi chiếc kính dùng để thích ứng đó. Khoảnh khắc đó tôi nhìn thấy: chúng ta đều là diễn viên, bao gồm cả chính tôi.
 
 <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <img src="./assets/IMG_20250906_173136.jpg" style="width: 50%;" />
-  <img src="./assets/IMG_20250904_174941.jpg" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250906_173136.jpg" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250904_174941.jpg" style="width: 50%;" />
 </div>
 
 Rồi lại viết một câu: «Chỉ có những người cảm thấy không hòa hợp, mới có thể thực sự thay đổi điều gì đó.»

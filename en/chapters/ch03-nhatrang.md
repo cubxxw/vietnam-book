@@ -29,13 +29,13 @@ But strangely, I felt a kind of relaxation here.
 
 Maybe because of the sea. The sea doesn't care about rules; it always spreads out before you, whether you go or not, it doesn't matter.
 
-<img src="./assets/IMG_20250803_154116.JPG" style="width: 100%; border-radius: 4px; margin-top: 16px;" />
+<img src="/chapters/assets/IMG_20250803_154116.JPG" style="width: 100%; border-radius: 4px; margin-top: 16px;" />
 
 ---
 
 ## 3.2 Two Hours of Doing Nothing
 
-<img src="./assets/image_1754394377987.JPG" style="width: 100%; border-radius: 4px; margin-bottom: 16px;" />
+<img src="/chapters/assets/image_1754394377987.JPG" style="width: 100%; border-radius: 4px; margin-bottom: 16px;" />
 
 A seaside spot without signal, around 2 PM.
 
@@ -58,9 +58,9 @@ Not because I particularly hard "reclaimed" them, but because there was no signa
 This was one of the most honest moments of this trip.
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; margin-top: 16px;">
-  <img src="./assets/IMG_20250808_094547.JPG" style="width: 100%;" />
-  <img src="./assets/IMG_20250808_100309.JPG" style="width: 100%;" />
-  <img src="./assets/IMG_20250808_104420.JPG" style="width: 100%;" />
+  <img src="/chapters/assets/IMG_20250808_094547.JPG" style="width: 100%;" />
+  <img src="/chapters/assets/IMG_20250808_100309.JPG" style="width: 100%;" />
+  <img src="/chapters/assets/IMG_20250808_104420.JPG" style="width: 100%;" />
 </div>
 
 ---
@@ -94,8 +94,8 @@ After four hours, she continued her journey, I continued mine.
 **This is ichigo ichie: because we know there won't be another coming, we are present.**
 
 <div style="display: flex; gap: 10px;">
-  <img src="./assets/IMG_20250809_165630.jpeg" style="width: 50%;" />
-  <img src="./assets/image_1754748746990.jpeg" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250809_165630.jpeg" style="width: 50%;" />
+  <img src="/chapters/assets/image_1754748746990.jpeg" style="width: 50%;" />
 </div>
 
 We were the most honest witnesses to each other's growth—not because of particular closeness, but because there was enough time and distance between two meetings to see clearly what had happened to that person.

@@ -30,10 +30,10 @@ Tôi chạy bộ ở đây, bơi lội ở đây, chẳng làm gì cả ở đâ
 Đà Nẵng về mặt địa lý là một nơi quá độ—phía bắc là Hội An và Huế, phía nam là Đà Lạt và Nha Trang. Bản thân nó không có nồng độ lịch sử như Hội An, cũng không có sự yên tĩnh như Đà Lạt, nhưng có nhịp điệu của riêng mình: hiện đại hơn, trực tiếp hơn, càng không quan tâm để lại ấn tượng gì.
 
 <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 8px; margin-bottom: 10px;">
-  <img src="./assets/IMG_20250819_123230.JPG" style="width: 100%;" />
+  <img src="/chapters/assets/IMG_20250819_123230.JPG" style="width: 100%;" />
   <div style="display: flex; flex-direction: column; gap: 8px;">
-    <img src="./assets/IMG_20250819_175019.jpg" style="width: 100%;" />
-    <img src="./assets/IMG_20250822_103544.jpg" style="width: 100%;" />
+    <img src="/chapters/assets/IMG_20250819_175019.jpg" style="width: 100%;" />
+    <img src="/chapters/assets/IMG_20250822_103544.jpg" style="width: 100%;" />
   </div>
 </div>
 
@@ -74,8 +74,8 @@ Tôi không chắc chắn cái「cảm giác hoài cổ」này là thật hay đ
 Tôi ngồi ở NAM House hai tiếng đồng hồ, chẳng nghĩ gì, chỉ nghe nhạc. Lúc đi ra, cảm thấy thời gian đã qua rất lâu, nhưng cũng cảm thấy thời gian đã qua rất ngắn.
 
 <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <img src="./assets/IMG_20250826_164246.jpg" style="width: 50%;" />
-  <img src="./assets/IMG_20250827_153452.jpg" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250826_164246.jpg" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250827_153452.jpg" style="width: 50%;" />
 </div>
 
 Đà Nẵng là một nơi quá độ, nhưng nơi quá độ này rất quan trọng—nó để tôi từ mật độ cảm xúc của Hội An đi ra, trước khi đến Huế, trước yên tĩnh một chút.

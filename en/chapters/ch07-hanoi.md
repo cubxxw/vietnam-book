@@ -61,10 +61,10 @@ Not envious of Vietnam's system or economy, but that kind of naive **narrative o
   gap: 10px;
   margin-bottom: 10px;
 ">
-  <img src="./assets/IMG_20250902_082913.jpg" style="width: 100%;" />
-  <img src="./assets/IMG_20250902_080721.jpg" style="width: 100%;" />
-  <img src="./assets/IMG_20250902_080535.jpg" style="width: 100%;" />
-  <img src="./assets/IMG_20250902_075823.jpg" style="width: 100%;" />
+  <img src="/chapters/assets/IMG_20250902_082913.jpg" style="width: 100%;" />
+  <img src="/chapters/assets/IMG_20250902_080721.jpg" style="width: 100%;" />
+  <img src="/chapters/assets/IMG_20250902_080535.jpg" style="width: 100%;" />
+  <img src="/chapters/assets/IMG_20250902_075823.jpg" style="width: 100%;" />
 </div>
 
 Vietnam's independence wasn't given from outside; they fought for it themselves. Ho Chi Minh led the nationalist movement, Vo Nguyen Giap commanded the guerrilla warfare and protracted war—the victory of this war was rooted in the broad participation of the people, not relying on the grace of external powers.
@@ -87,7 +87,7 @@ Algorithms are constantly telling you a story about "who you are, what you like,
 
 **Part of the reason for the sense of suspension, perhaps, is: losing the protagonist position in your own story.**
 
-<img src="./assets/IMG_20250908_145812.JPG" style="width: 100%; border-radius: 4px; margin-top: 16px;" />
+<img src="/chapters/assets/IMG_20250908_145812.JPG" style="width: 100%; border-radius: 4px; margin-top: 16px;" />
 
 ---
 
@@ -118,8 +118,8 @@ That night I wrote a note:
 Drunkenness let me temporarily take off those glasses used to adapt. In that moment I saw: we are all actors, including myself.
 
 <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <img src="./assets/IMG_20250906_173136.jpg" style="width: 50%;" />
-  <img src="./assets/IMG_20250904_174941.jpg" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250906_173136.jpg" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250904_174941.jpg" style="width: 50%;" />
 </div>
 
 Then I wrote another sentence: "Only those who feel out of place can possibly change something."

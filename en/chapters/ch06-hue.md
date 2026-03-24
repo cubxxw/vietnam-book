@@ -48,8 +48,8 @@ I didn't disturb him. Sat under the eaves, watched him for a long time.
 Don't know if he had entered some state, or if in that moment, I was the one who was distracted.
 
 <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <img src="./assets/IMG_20250830_130018.jpg" style="width: 50%;" />
-  <img src="./assets/IMG_20250830_145124.jpg" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250830_130018.jpg" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250830_145124.jpg" style="width: 50%;" />
 </div>
 
 "Rain isn't external; it's a part." I later wrote this sentence in my diary.
@@ -77,8 +77,8 @@ There was an indescribable kind of beauty.
 Not that kind of complete, refined, protected beauty, but an **aesthetics of mono no aware**—things decaying in time, and in this process, their internal structure slowly reveals itself, those bones hidden beneath the surface begin to be seen.
 
 <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <img src="./assets/IMG_20250831_123729.jpg" style="width: 50%;" />
-  <img src="./assets/IMG_20250831_124806.jpg" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250831_123729.jpg" style="width: 50%;" />
+  <img src="/chapters/assets/IMG_20250831_124806.jpg" style="width: 50%;" />
 </div>
 
 Abandoned things have a kind of honesty.
