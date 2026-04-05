@@ -2,8 +2,7 @@
 
 > 越南旅居篇 · 2025.7.14 — 9.12 · 鑫伟 (cubxxw)
 
-**🌐 在线阅读：[vietnam-book](https://cubxxw.github.io/vietnam-book/)**
-
+**🌐 在线阅读：[vietnam-book](https://vietnam.nsddd.top/)**
 ---
 
 两百万辆摩托车，和我这个多余的人。
