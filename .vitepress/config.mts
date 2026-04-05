@@ -180,6 +180,10 @@ export default defineConfig({
   lastUpdated: true,
   cleanUrls: true,
 
+  markdown: {
+    html: true,
+  },
+
   head: [
     ['meta', { name: 'author', content: '鑫伟 (cubxxw)' }],
     ['meta', { property: 'og:title', content: '咖啡凉了，摩托还没停' }],
