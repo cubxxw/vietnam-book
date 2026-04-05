@@ -51,17 +51,15 @@ description: Sixty Days in Vietnam · Complete Chapter Index
         <p class="chapter-card__tag">The spinning top turns fast, but knows not where it turns</p>
       </div>
     </a>
-
     <a class="chapter-card" href="/en/chapters/ch01-landing-shock">
       <span class="chapter-card__index">01</span>
       <div class="chapter-card__content">
         <p class="chapter-card__city">Ho Chi Minh City</p>
         <h2>Chapter 1 · Ho Chi Minh: Landing</h2>
         <p class="chapter-card__line">Landing Shock</p>
-        <p class="chapter-card__tag">One system失效 s, another not yet entered</p>
+        <p class="chapter-card__tag">One system fails, another not yet entered</p>
       </div>
     </a>
-
     <a class="chapter-card" href="/en/chapters/ch02-dalat">
       <span class="chapter-card__index">02</span>
       <div class="chapter-card__content">
@@ -71,7 +69,6 @@ description: Sixty Days in Vietnam · Complete Chapter Index
         <p class="chapter-card__tag">23°C, forcing you to slow down</p>
       </div>
     </a>
-
     <a class="chapter-card" href="/en/chapters/ch03-nhatrang">
       <span class="chapter-card__index">03</span>
       <div class="chapter-card__content">
@@ -81,7 +78,6 @@ description: Sixty Days in Vietnam · Complete Chapter Index
         <p class="chapter-card__tag">Two hours of doing nothing</p>
       </div>
     </a>
-
     <a class="chapter-card" href="/en/chapters/ch04-hoi-an">
       <span class="chapter-card__index">04</span>
       <div class="chapter-card__content">
@@ -91,7 +87,6 @@ description: Sixty Days in Vietnam · Complete Chapter Index
         <p class="chapter-card__tag">Silence is louder than narrative</p>
       </div>
     </a>
-
     <a class="chapter-card" href="/en/chapters/ch05-danang">
       <span class="chapter-card__index">05</span>
       <div class="chapter-card__content">
@@ -101,7 +96,6 @@ description: Sixty Days in Vietnam · Complete Chapter Index
         <p class="chapter-card__tag">Waste is raw material in another logic</p>
       </div>
     </a>
-
     <a class="chapter-card" href="/en/chapters/ch06-hue">
       <span class="chapter-card__index">06</span>
       <div class="chapter-card__content">
@@ -111,7 +105,6 @@ description: Sixty Days in Vietnam · Complete Chapter Index
         <p class="chapter-card__tag">Stone doesn't speak; stand long enough and it will open</p>
       </div>
     </a>
-
     <a class="chapter-card" href="/en/chapters/ch07-hanoi">
       <span class="chapter-card__index">07</span>
       <div class="chapter-card__content">
@@ -121,7 +114,6 @@ description: Sixty Days in Vietnam · Complete Chapter Index
         <p class="chapter-card__tag">Who is the protagonist in your own story?</p>
       </div>
     </a>
-
     <a class="chapter-card chapter-card--outro" href="/en/chapters/ch08-epilogue">
       <span class="chapter-card__index">08</span>
       <div class="chapter-card__content">

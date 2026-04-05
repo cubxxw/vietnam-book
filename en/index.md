@@ -66,7 +66,7 @@ features:
         <div class="home-scene__overlay">
           <p class="home-scene__chapter">Chapter 01 · Ho Chi Minh</p>
           <h3>Order broke first.</h3>
-          <p>It wasn't the map that failed first—it was your轻视 of the system.</p>
+          <p>It wasn't the map that failed first—it was your underestimation of the system.</p>
         </div>
       </a>
     </div>
@@ -161,7 +161,7 @@ Not anxious about falling behind. Not anxious about unemployment. Something deep
 
 I later gave this state a name: **Suspension**.
 
-Not in a bad mood. Not confused. A concrete bodily sensation—like standing between two systems, the Tokyo order失效 ing, the new logic not yet entered, you're suspended there, seeing everything clearly, grasping nothing. Like opening your eyes underwater: you can see everything, but touch nothing.
+Not in a bad mood. Not confused. A concrete bodily sensation—like standing between two systems, the Tokyo order failing, the new logic not yet entered, you're suspended there, seeing everything clearly, grasping nothing. Like opening your eyes underwater: you can see everything, but touch nothing.
 
 On July 14, 2025, I bought a plane ticket and went to Vietnam.
 

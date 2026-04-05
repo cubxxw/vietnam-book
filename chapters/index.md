@@ -13,6 +13,18 @@ description: 越南六十日 · 全书章节索引
     </p>
   </div>
 
+  <div class="journey-map">
+    <iframe 
+      width="100%" 
+      height="480" 
+      src="https://www.polarsteps.com/cubxxw/19561627-yue-nan-lu-ju-pian/embed" 
+      frameborder="0" 
+      allowfullscreen
+      style="border-radius: 12px; box-shadow: 0 4px 24px rgba(0,0,0,0.08);"
+    ></iframe>
+    <p class="journey-map__caption">我的越南 60 天旅程</p>
+  </div>
+
   <div class="chapters-hub__stats">
     <div class="chapters-hub__stat">
       <span class="chapters-hub__stat-value">60</span>
@@ -38,7 +50,6 @@ description: 越南六十日 · 全书章节索引
         <p class="chapter-card__tag">陀螺转得很快，但不知转向哪里</p>
       </div>
     </a>
-
     <a class="chapter-card" href="/chapters/ch01-landing-shock">
       <span class="chapter-card__index">01</span>
       <div class="chapter-card__content">
@@ -48,7 +59,6 @@ description: 越南六十日 · 全书章节索引
         <p class="chapter-card__tag">一个系统失效，另一个还没进入</p>
       </div>
     </a>
-
     <a class="chapter-card" href="/chapters/ch02-dalat">
       <span class="chapter-card__index">02</span>
       <div class="chapter-card__content">
@@ -58,7 +68,6 @@ description: 越南六十日 · 全书章节索引
         <p class="chapter-card__tag">23 度，强迫你放慢</p>
       </div>
     </a>
-
     <a class="chapter-card" href="/chapters/ch03-nhatrang">
       <span class="chapter-card__index">03</span>
       <div class="chapter-card__content">
@@ -68,7 +77,6 @@ description: 越南六十日 · 全书章节索引
         <p class="chapter-card__tag">什么都不做的两小时</p>
       </div>
     </a>
-
     <a class="chapter-card" href="/chapters/ch04-hoi-an">
       <span class="chapter-card__index">04</span>
       <div class="chapter-card__content">
@@ -78,7 +86,6 @@ description: 越南六十日 · 全书章节索引
         <p class="chapter-card__tag">沉默比叙述更响</p>
       </div>
     </a>
-
     <a class="chapter-card" href="/chapters/ch05-danang">
       <span class="chapter-card__index">05</span>
       <div class="chapter-card__content">
@@ -88,7 +95,6 @@ description: 越南六十日 · 全书章节索引
         <p class="chapter-card__tag">废料在另一种逻辑里是原料</p>
       </div>
     </a>
-
     <a class="chapter-card" href="/chapters/ch06-hue">
       <span class="chapter-card__index">06</span>
       <div class="chapter-card__content">
@@ -98,7 +104,6 @@ description: 越南六十日 · 全书章节索引
         <p class="chapter-card__tag">石头不说话，站够久它会开口</p>
       </div>
     </a>
-
     <a class="chapter-card" href="/chapters/ch07-hanoi">
       <span class="chapter-card__index">07</span>
       <div class="chapter-card__content">
@@ -108,7 +113,6 @@ description: 越南六十日 · 全书章节索引
         <p class="chapter-card__tag">谁是你自己故事里的主角？</p>
       </div>
     </a>
-
     <a class="chapter-card chapter-card--outro" href="/chapters/ch08-epilogue">
       <span class="chapter-card__index">08</span>
       <div class="chapter-card__content">
