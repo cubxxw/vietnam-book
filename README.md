@@ -2,7 +2,7 @@
 
 > 越南旅居篇 · 2025.7.14 — 9.12 · 鑫伟 (cubxxw)
 
-**🌐 在线阅读：[vietnam-book](https://vietnam.nsddd.top/)**
+**🌐 在线阅读：[vietnam-book](https://vietnam.cubxxw.com/)**
 ---
 
 两百万辆摩托车，和我这个多余的人。
@@ -83,7 +83,7 @@ push → Actions build → GitHub Pages
 **鑫伟 (cubxxw)** — AI 领域从业者，开源贡献者。
 
 - GitHub: [@cubxxw](https://github.com/cubxxw)
-- 博客: [nsddd.top](https://nsddd.top/)
+- 博客: [cubxxw.com](https://cubxxw.com/)
 - 这本书写于 2025 年秋至 2026 年春
 
 ---

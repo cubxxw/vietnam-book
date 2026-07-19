@@ -1,7 +1,90 @@
 import { defineConfig } from 'vitepress'
 
+const HOSTNAME = 'https://vietnam.cubxxw.com'
+const SITE_NAME = '咖啡凉了，摩托还没停'
+const DEFAULT_OG_IMAGE = '/favicon.svg'
+
+/** Locale prefixes, keyed by the hreflang value each one maps to. */
+const LOCALES = [
+  { prefix: '', hreflang: 'zh-CN', ogLocale: 'zh_CN' },
+  { prefix: 'en/', hreflang: 'en', ogLocale: 'en_US' },
+  { prefix: 'vi/', hreflang: 'vi', ogLocale: 'vi_VN' },
+]
+
+/**
+ * Split a relativePath into its locale prefix and the locale-independent
+ * remainder. The three locale trees mirror each other exactly, so the
+ * remainder is all that is needed to build the alternate URLs.
+ */
+function splitLocale(relativePath: string) {
+  const path = relativePath.replace(/(index)?\.md$/, '')
+  for (const locale of LOCALES) {
+    if (locale.prefix && path.startsWith(locale.prefix)) {
+      return { locale, rest: path.slice(locale.prefix.length) }
+    }
+  }
+  return { locale: LOCALES[0], rest: path }
+}
+
+function absoluteUrl(path: string): string {
+  const clean = path.replace(/\/$/, '')
+  return clean ? `${HOSTNAME}/${clean}` : `${HOSTNAME}/`
+}
+
 export default defineConfig({
   base: '/',
+
+  sitemap: { hostname: HOSTNAME },
+
+  // Repo docs are not site content — keep them out of the build and sitemap.
+  srcExclude: ['README.md', 'I18N_GUIDE.md', 'MULTILANG_SUMMARY.md', 'UTTERANCES_SETUP.md'],
+
+  // Per-page canonical, hreflang alternates and OG tags. The three locale
+  // trees are exact mirrors, so alternates are derived from the path alone.
+  transformPageData(pageData) {
+    const fm = pageData.frontmatter
+    const { locale, rest } = splitLocale(pageData.relativePath)
+    const url = absoluteUrl(locale.prefix + rest)
+    const title = fm.title ? `${fm.title} — ${SITE_NAME}` : SITE_NAME
+    const description = fm.description || fm.excerpt || ''
+    const image = HOSTNAME + (fm.heroImage || DEFAULT_OG_IMAGE)
+
+    if (description) pageData.description = description
+
+    pageData.frontmatter.head ??= []
+    pageData.frontmatter.head.push(
+      ['link', { rel: 'canonical', href: url }],
+      ['meta', { property: 'og:url', content: url }],
+      ['meta', { property: 'og:title', content: title }],
+      ['meta', { property: 'og:type', content: 'book' }],
+      ['meta', { property: 'og:site_name', content: SITE_NAME }],
+      ['meta', { property: 'og:image', content: image }],
+      ['meta', { property: 'og:locale', content: locale.ogLocale }],
+      ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+      ['meta', { name: 'twitter:title', content: title }],
+      ['meta', { name: 'twitter:image', content: image }],
+      ...(description
+        ? [
+            ['meta', { property: 'og:description', content: description }] as const,
+            ['meta', { name: 'twitter:description', content: description }] as const,
+          ]
+        : []),
+    )
+
+    for (const alt of LOCALES) {
+      if (alt !== locale) {
+        pageData.frontmatter.head.push(
+          ['meta', { property: 'og:locale:alternate', content: alt.ogLocale }],
+        )
+      }
+      pageData.frontmatter.head.push(
+        ['link', { rel: 'alternate', hreflang: alt.hreflang, href: absoluteUrl(alt.prefix + rest) }],
+      )
+    }
+    pageData.frontmatter.head.push(
+      ['link', { rel: 'alternate', hreflang: 'x-default', href: absoluteUrl(rest) }],
+    )
+  },
 
   vite: {
     assetsInclude: ['**/*.JPG', '**/*.JPEG', '**/*.PNG', '**/*.GIF', '**/*.WEBP'],
@@ -22,7 +105,7 @@ export default defineConfig({
           { text: '首页', link: '/' },
           { text: '开始阅读', link: '/chapters/prologue' },
           { text: '章节目录', link: '/chapters/' },
-          { text: '作者博客', link: 'https://nsddd.top/' },
+          { text: '作者博客', link: 'https://cubxxw.com/' },
           { text: 'GitHub', link: 'https://github.com/cubxxw/vietnam-book' },
         ],
         sidebar: {
@@ -77,7 +160,7 @@ export default defineConfig({
           { text: 'Home', link: '/en/' },
           { text: 'Start Reading', link: '/en/chapters/prologue' },
           { text: 'Chapters', link: '/en/chapters/' },
-          { text: 'Blog', link: 'https://nsddd.top/' },
+          { text: 'Blog', link: 'https://cubxxw.com/' },
           { text: 'GitHub', link: 'https://github.com/cubxxw/vietnam-book' },
         ],
         sidebar: {
@@ -132,7 +215,7 @@ export default defineConfig({
           { text: 'Trang Chủ', link: '/vi/' },
           { text: 'Bắt Đầu Đọc', link: '/vi/chapters/prologue' },
           { text: 'Mục Lục', link: '/vi/chapters/' },
-          { text: 'Blog', link: 'https://nsddd.top/' },
+          { text: 'Blog', link: 'https://cubxxw.com/' },
           { text: 'GitHub', link: 'https://github.com/cubxxw/vietnam-book' },
         ],
         sidebar: {
@@ -185,9 +268,8 @@ export default defineConfig({
   },
 
   head: [
+    // og:title / og:description are emitted per page by transformPageData.
     ['meta', { name: 'author', content: '鑫伟 (cubxxw)' }],
-    ['meta', { property: 'og:title', content: '咖啡凉了，摩托还没停' }],
-    ['meta', { property: 'og:description', content: '越南旅居篇 · 2025.7.14 — 9.12 · 两百万辆摩托车，和我这个多余的人' }],
     ['link', { rel: 'icon', href: '/favicon.svg', type: 'image/svg+xml' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
